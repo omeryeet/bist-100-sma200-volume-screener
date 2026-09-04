@@ -10,6 +10,10 @@ Passing symbols are printed as a table and drawn into a single chart
 (`charts/screen_result.png`): price + SMA200 on top, volume bars with the
 period-average line below.
 
+## Example output
+
+![Example screener output](docs/example_output.png)
+
 ## Setup
 
 ```powershell
